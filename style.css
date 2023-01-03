@@ -1,0 +1,11 @@
+.demo{
+    background-color: blue;
+    color: white;
+    width:400px;
+    margin:auto;
+    text-align: center;
+    padding: 25px;
+}
+.demo p{
+    font-size: 18px;
+}
